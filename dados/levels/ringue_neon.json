@@ -1,0 +1,12 @@
+{
+  "name": "FASE 1 — RINGUE NEON",
+  "mode": "DUELO",
+  "platforms": [[160, 550, 960, 30], [310, 395, 200, 18], [770, 395, 200, 18]],
+  "player_spawn": [390, 450],
+  "enemy_spawn": [850, 450],
+  "weapon_interval": 6.0,
+  "weapon_warning": 1.5,
+  "weapon_drop_points": [580, 640, 700],
+  "rope_height": 80,
+  "rope_impulse": 420
+}
